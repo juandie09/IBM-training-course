@@ -1,0 +1,54 @@
+Introducción a la sismología,3,4.3
+Campo II: prácticas de geología estructural,3,4.0
+Métodos Geofísicos,3,4.8
+Petrografía ígnea,3,4.4
+Tectónica,3,4.1
+Inglés Intensivo I (Intensive English I),4,4.9
+Economía de proyectos mineros y petroleros,3,4.3
+Bioestadística fundamental,3,4.2
+Fundamentación Geofísica,3,4.7
+Geología Estructural,3,4.7
+Mineralogía óptica,3,4.2
+Fundamentos de oscilaciones, ondas y óptica,4,3.5
+Campo I: prácticas de geología física,3,3.4
+Geomorfología y fotos aéreas,3,3.0
+Mineralogía,3,3.5
+Cátedra Colombiana,3,4.6
+Biología general,3,4.0
+Fundamentos químicos de geología,3,4.0
+Geodinámica externa,4,4.0
+Geometría Descriptiva,4,3.6
+Fundamentos de mecánica,4,3.6
+Geodinámica interna,4,4.1
+Cálculo diferencial,4,3.5
+Principios de química,3,3.4
+Cátedra nacional neurociencia,3,4.5
+Introducción a ingeniería electrónica,5,4.2
+Programación de computadores,3,4.2
+Taller de ingeniería electrónica,2,4.7
+intensive2,4,4.7
+quimica lab,3,4.3
+metamorficas,3,4.0
+paleontologia,3,4.2
+sedimentos,3,4.2
+campo3,3,4.4
+estratos,3,3.0
+algebra,3,4.8
+ciencia de datos,4,4.9
+clima,3,4.8
+campo4,3,4.4
+electiva44,3,5.0
+geocol,3,4.0
+yacimientos,3,4.4
+campo5,3,4.4
+campo6,3,4.4
+tesis,9,5.0
+investigacion,3,5.0
+electiva3,3,4.8
+geofisica de campo,4,4.8
+electiva5,3,4.8
+electiva6,3,4.8
+historica,3,4.8
+
+
+
